@@ -9,6 +9,7 @@
 </head>
 <body>
         primera pagina, este es un ejemplo para github
+        <h2>ESTA ES UN BRANCH ALTERNATIVO</h2>
     
     <script src="app.js"></script>
 </body>
